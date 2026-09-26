@@ -1,0 +1,6 @@
+{
+  "name": "Transport Invoice & Logbook Duplicate Checker",
+  "description": "Professional transport invoice generator with automated logbook verification and photo duplicate detection for fleet journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
